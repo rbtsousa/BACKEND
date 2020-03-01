@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "kklicowf",
+    "password": "7f-dJRoAEHLtTqwYMDElE75AS2KEpnh5",
+    "database": "kklicowf",
+    "host": "rajje.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": true
+  },
+  "test": {
+    "username": "kklicowf",
+    "password": "7f-dJRoAEHLtTqwYMDElE75AS2KEpnh5",
+    "database": "kklicowf",
+    "host": "rajje.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": true
+  },
+  "production": {
+    "username": "kklicowf",
+    "password": "7f-dJRoAEHLtTqwYMDElE75AS2KEpnh5",
+    "database": "kklicowf",
+    "host": "rajje.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
